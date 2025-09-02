@@ -1,4 +1,4 @@
-✅ Final Checklist ก่อนเข้า Workshop
+#✅ Final Checklist ก่อนเข้า Workshop
 
 ✅ เข้าใจภาพรวมว่า Backend, Frontend, Database ทำงานร่วมกันอย่างไร
 
